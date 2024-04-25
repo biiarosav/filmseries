@@ -8,7 +8,7 @@ body{
 }
 
 .cabeçalho {
-    background-color: #0b0352;
+    background-color: #908bbf;
     display: flex;
     padding: 24px 0;
     justify-content: space-around;
@@ -41,7 +41,7 @@ body{
 
 .Apresentação {
     background-image: linear-gradient(#ffffff, #e6e8ff);
-    color: rgb(8, 3, 53);
+    color: rgb(214, 214, 216);
     display: flex;
     justify-content: center;
     align-items: center;
